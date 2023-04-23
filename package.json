@@ -1,0 +1,19 @@
+{
+  "name": "bases-node",
+  "version": "0.0.1",
+  "description": "Es una app para obtener las tablas de multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jasson Gualguan",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "colors": "^1.4.0",
+    "yargs": "^17.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
